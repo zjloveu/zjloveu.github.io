@@ -1,22 +1,44 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "The Tong Test: Evaluating Artificial General Intelligence through Dynamic Embodied Physical and Social Interactions"
+    authors: Y Peng, J Han, Z Zhang, L Fan, T Liu, S Qi, <strong>X Feng</strong>, Y Ma, Y Wang, et al.
+    conference_short: Engineering
+    conference: <strong>Engineering</strong>, 2024.
+    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAQ5JlYAAAAJ&citation_for_view=KAQ5JlYAAAAJ:UeHWp8X0CEIC
+    cited_by: 65
+    notes: Featured Paper
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Voluntary Vaccination Dilemma with Evolving Psychological Perceptions"
+    authors: <strong>X Feng</strong>, B Wu, L Wang
+    conference_short: JTB
+    conference: <strong>Journal of Theoretical Biology</strong>, 2018.
+    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAQ5JlYAAAAJ&citation_for_view=KAQ5JlYAAAAJ:d1gkVwhDpl0C
+    cited_by: 36
+
+  - title: "AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making"
+    authors: Y Huang, X Wang, H Liu, F Kong, A Qin, M Tang, X Wang, SC Zhu, M Bi, <strong>X Feng</strong>, et al.
+    conference_short: NeurIPS
+    conference: <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>, 2024.
+    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAQ5JlYAAAAJ&citation_for_view=KAQ5JlYAAAAJ:eQOLeE2rZwMC
+    cited_by: 9
+
+  - title: "Evolution of Stinginess and Generosity in Finite Populations"
+    authors: <strong>X Feng</strong>, Y Zhang, L Wang
+    conference_short: JTB
+    conference: <strong>Journal of Theoretical Biology</strong>, 2017.
+    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAQ5JlYAAAAJ&citation_for_view=KAQ5JlYAAAAJ:u5HHmVD_uO8C
+    cited_by: 8
+
+  - title: "Learning to Balance Altruism and Self-Interest Based on Empathy in Mixed-Motive Games"
+    authors: F Kong, Y Huang, SC Zhu, S Qi, <strong>X Feng</strong>
+    conference_short: NeurIPS
+    conference: <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>, 2024.
+    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAQ5JlYAAAAJ&citation_for_view=KAQ5JlYAAAAJ:WF5omc3nYNoC
+    cited_by: 6
+
+  - title: "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios"
+    authors: C Smith, M Abdulhai, M Diaz, M Tesic, R Trivedi, S Vezhnevets, et al.
+    conference_short: NeurIPS
+    conference: <strong>The Thirty-ninth Annual Conference on Neural Information Processing Systems</strong>, 2025.
+    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAQ5JlYAAAAJ&citation_for_view=KAQ5JlYAAAAJ:MXK_kJrjxJIC
+    cited_by: 6

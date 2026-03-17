@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a researcher specializing in multi-agent systems, evolutionary game theory, and collective intelligence. I am affiliated with BIGAI (Beijing Institute for General Artificial Intelligence), Peking University, and Princeton University. My research focuses on understanding how multiple intelligent agents interact, learn, and make decisions in complex environments.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multi-Agent Systems:** multi-agent reinforcement learning (MARL), agent coordination
+- **Evolutionary Game Theory:** dynamics of cooperation, vaccination dilemma, public goods games
+- **Collective Intelligence:** emergent behavior, swarm intelligence
+- **AI & Society:** alignment, behavioral dynamics, value-driven decision-making
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2026]** Personal homepage launched!
+- **[2025]** Multiple papers on LLM agents accepted to NeurIPS, ICML, ACL, EMNLP.
+- **[2024]** Featured in Engineering journal for work on evaluating AGI.
+- **[2024]** Collaborative research on multi-agent decision-making.
 
 {% include_relative _includes/publications.md %}
 
